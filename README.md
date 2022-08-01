@@ -14,6 +14,25 @@ Email: saganak.deniz@gmail.com
 LinkedIn: www.linkedin.com/in/dilara-deniz-saganak-45190b146/
 Address: Berlin, Germany
 
+## Projects
+### Absurd Dictionary - https://github.com/YuruBeDeniz/absurdDictionary
+- An open, unofficial platform to create and share knowledge.
+### Tech stack: JavaScript, Express, NodeJS, React, CSS
+
+### Meeture - https://github.com/Beachvolley-Project/Project-2
+- A beach volley event creation web app.
+### Tech stack: JavaScript, Express, NodeJS, Handlebars, Bootstrap
+
+### Hangman - https://github.com/YuruBeDeniz/hangman-game
+- A hangman game made with DOM manipulation as the first Project at Ironhack full-stack 
+web development bootcamp.
+### Tech stack: JavaScript, HTML, CSS
+
+### Squirrel Game - https://github.com/YuruBeDeniz/ProjectOne-SquirrelGame
+-  A jump and run game made with P5js as the first Project at Ironhack full-stack 
+web development bootcamp.
+### Tech stack:  JavaScript, P5js
+
 ## Experience
 ### September 2021 - June 2022
 ### Concentrix, Berlin
