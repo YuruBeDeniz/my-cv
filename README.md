@@ -3,8 +3,8 @@
 ## Full-stack Developer
 
 An experienced humanitarian worker who are passionate about full-stack development.
-Respects international human rights issues, equality and cultural diversity.
 A good team player with the ability of working independently.
+A fresh graduate of full-time full stack web development intensive course.
 
 https://github.com/YuruBeDeniz
 
