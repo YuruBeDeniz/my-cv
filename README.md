@@ -15,6 +15,10 @@ LinkedIn: www.linkedin.com/in/dilara-deniz-saganak-45190b146/
 Address: Berlin, Germany
 
 ## Projects
+### ElcinAkpınarWebProject - https://github.com/YuruBeDeniz/ElcinAkpinarWebProject
+- Personal website of singer Elçin Akpınar.
+### Tech stack: JavaScript, Express, NodeJS, React, CSS, Tailwind
+
 ### Absurd Dictionary - https://github.com/YuruBeDeniz/absurdDictionary
 - An open, unofficial platform to create and share knowledge.
 ### Tech stack: JavaScript, Express, NodeJS, React, CSS
@@ -95,6 +99,7 @@ Middle East Technical University, Ankara
 - HTML & CSS
 - Back-end Technologies and Frameworks
 - JavaScript
+- TypeScript
 - NodeJs
 - ExpressJs
 - MongoDB
